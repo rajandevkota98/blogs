@@ -1,9 +1,11 @@
 ---
-title: "Post With Code"
+title: "LLM Survery"
 author: "Harlow Malloc"
 date: "2024-04-05"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "images/assests/download (1).jpeg"
+description: "This is LLM survey blogs"
+reading-time: 10
 ---
 
 This is a post with executable code.
