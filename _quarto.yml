@@ -8,8 +8,8 @@ website:
   site-url: https://rajandevkota98.github.io
   navbar:
     left:
-      - text: "Notes"
-        file: test.qmd
+      - text: "Summary"
+        file: summary.qmd
       - text: "{{< fa address-card >}} About"
         file: about.qmd
     right:
@@ -102,6 +102,7 @@ website:
         - text: "---"
         - section: "💡 **Machine learning**"
           contents: "notes/Machine Learning/*"
+
 format:
   html:
     page-layout: article
