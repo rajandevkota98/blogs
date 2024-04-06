@@ -2,7 +2,7 @@
 title: "About"
 title-block-style: none
 image: images/personal/ss.png
-sidebar: True
+sidebar: False
 about:
   template: trestles
   links:
