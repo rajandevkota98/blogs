@@ -1,4 +1,18 @@
 ---
+title: "Blogs"
+title-block-style: none
+sidebar: True
+blogs:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rajan-devkota-927340175/
+    - icon: github
+      text: GitHub
+      href: https://github.com/rajandevkota98
+---
+---
 listing:
   contents: posts
   sort: "date desc"
