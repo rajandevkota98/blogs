@@ -6,7 +6,7 @@ listing:
   sort: "date desc"
   type: default
   image-align: left
-  image-placeholder: images/thumbnail_template.jpg
+  image-placeholder: images/personal/ss.png
   feed: true
   sort-ui: false
   filter-ui: false

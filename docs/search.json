@@ -9,9 +9,9 @@
   {
     "objectID": "test.html",
     "href": "test.html",
-    "title": "Hello",
+    "title": " Research notes",
     "section": "",
-    "text": "This is Intresting"
+    "text": "No matching items"
   },
   {
     "objectID": "posts/test/index.html",
@@ -40,6 +40,13 @@
     "title": "Blogs",
     "section": "",
     "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": " Research notes",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "myenv/lib/python3.11/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.html",
@@ -110,12 +117,5 @@
     "title": "About",
     "section": "",
     "text": "👋 Greetings! My name is Rajan Devkota, and I am currently an Associate AI Engineer at Frost Digital Venture. I hold a bachelor’s degree in Computer Engineering from Institute of Engineering, Tribhuvan University.\nThis is my personal blog website where I aim to provide practical tutorials and guides on AI and machine learning. I believe in starting with implementation and practice, and then diving into explanations. By retracing the thought process of the original authors of the algorithms we use every day, we can gain a deeper understanding of their design and the importance of each component.\nI hope we can have fun together and learn a few things along the way!\nIf you want to contact me, feel free to send an email to r.devkota.98@gmail.com."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": " Research notes",
-    "section": "",
-    "text": "No matching items"
   }
 ]
