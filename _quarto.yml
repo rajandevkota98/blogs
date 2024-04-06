@@ -2,14 +2,13 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "Blogs"
   description: "Illustrated tutorials about large language models, graph neural networks, and convex optimization using Python."
   site-url: https://rajandevkota98.github.io
   navbar:
     left:
-      - text: "{{< fa pen >}} Notes"
+      - text: "Notes"
         file: test.qmd
       - text: "{{< fa address-card >}} About"
         file: about.qmd
@@ -20,7 +19,6 @@ website:
         href: https://www.linkedin.com/in/rajan-devkota-927340175/
     pinned: false
   google-analytics: "G-4DWYJM47PC"
-  favicon: images/favicon.ico
   twitter-card: true
   open-graph: true
   page-footer: "{{< fa regular copyright >}} Copyright 2023, Rajan Devkota" 
@@ -121,11 +119,7 @@ format:
 
 comments:
   utterances:
-    repo: https://github.com/mlabonne/blog
-format:
-  html:
-    theme: cosmo
-    css: styles.css
+    repo: https://github.com/rajandevkota98/rajandevkota98.github.io
 
 paths:
   python: /home/user/Downloads/blogs/myenv/bin/python3

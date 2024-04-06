@@ -1,7 +1,7 @@
 ---
 title: "Blogs"
 title-block-style: none
-sidebar: True
+sidebar: true
 blogs:
   template: trestles
   links:
@@ -11,8 +11,6 @@ blogs:
     - icon: github
       text: GitHub
       href: https://github.com/rajandevkota98
----
----
 listing:
   contents: posts
   sort: "date desc"
@@ -23,5 +21,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-
