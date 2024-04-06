@@ -3,7 +3,7 @@ title: "LLM Survery"
 author: "Harlow Malloc"
 date: "2024-04-05"
 categories: [news, code, analysis]
-image: "images/assests/download (1).jpeg"
+image: "download.jpeg"
 description: "This is LLM survey blogs"
 ---
 
