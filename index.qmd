@@ -1,5 +1,4 @@
 ---
-title: "Blogs"
 title-block-style: none
 sidebar: true
 blogs:
