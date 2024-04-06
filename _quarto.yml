@@ -3,20 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Blogs"
+  title: "Rajan AI Website"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/rajandevkota98
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rajan-devkota-927340175/
 format:
   html:
     theme: cosmo
     css: styles.css
 
 paths:
-  python: /home/user/anaconda3/envs/test/bin/python3
+  python: /home/user/Downloads/blogs/myenv/bin/python3
+
 
 

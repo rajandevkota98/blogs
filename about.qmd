@@ -1,11 +1,9 @@
 ---
 title: "About"
-image: profile.jpg
+image: ss.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rajan-devkota-927340175/
@@ -15,4 +13,6 @@ about:
 
 ---
 
-About this blog
+Hello, I am Rajan, a Passionate AI developer, working on filed of Generative AI.
+
+You can find my CV here:
