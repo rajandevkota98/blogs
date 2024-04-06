@@ -11,7 +11,7 @@
     "href": "test.html",
     "title": " Research notes",
     "section": "",
-    "text": "No matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/test/index.html",
@@ -46,7 +46,7 @@
     "href": "summary.html",
     "title": " Research notes",
     "section": "",
-    "text": "No matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "myenv/lib/python3.11/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.html",
@@ -117,5 +117,12 @@
     "title": "About",
     "section": "",
     "text": "👋 Greetings! My name is Rajan Devkota, and I am currently an Associate AI Engineer at Frost Digital Venture. I hold a bachelor’s degree in Computer Engineering from Institute of Engineering, Tribhuvan University.\nThis is my personal blog website where I aim to provide practical tutorials and guides on AI and machine learning. I believe in starting with implementation and practice, and then diving into explanations. By retracing the thought process of the original authors of the algorithms we use every day, we can gain a deeper understanding of their design and the importance of each component.\nI hope we can have fun together and learn a few things along the way!\nIf you want to contact me, feel free to send an email to r.devkota.98@gmail.com."
+  },
+  {
+    "objectID": "summary/raft/index.html",
+    "href": "summary/raft/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
   }
 ]
