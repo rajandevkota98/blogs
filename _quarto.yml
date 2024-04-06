@@ -8,7 +8,7 @@ website:
   site-url: https://rajandevkota98.github.io
   navbar:
     left:
-      - text: "Summary"
+      - text: "Notes"
         file: summary.qmd
       - text: "{{< fa address-card >}} About"
         file: about.qmd
