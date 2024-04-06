@@ -1,18 +1,23 @@
 ---
 title: "About"
-image: ss.jpg
+title-block-style: none
+image: images/personal/ss.png
+sidebar: True
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rajan-devkota-927340175/
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/rajandevkota98
-
 ---
 
-Hello, I am Rajan, a Passionate AI developer, working on filed of Generative AI.
+👋 **Greetings!** My name is Rajan Devkota, and I am currently an Associate AI Engineer at [Frost Digital Venture](https://www.frostdigi.ai/). I hold a bachelor's degree in Computer Engineering from [Institute of Engineering, Tribhuvan University](https://ioe.tu.edu.np/).
 
-You can find my CV here:
+This is my personal blog website where I aim to provide **practical tutorials and guides** on AI and machine learning. I believe in starting with implementation and practice, and then diving into explanations. By retracing the thought process of the original authors of the algorithms we use every day, we can gain a deeper understanding of their design and the importance of each component.
+
+I hope we can have fun together and learn a few things along the way!
+
+If you want to contact me, feel free to send an email to [r.devkota.98@gmail.com](mailto:r.devkota.98@gmail.com).
