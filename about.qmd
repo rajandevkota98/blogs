@@ -13,7 +13,6 @@ about:
       text: GitHub
       href: https://github.com/rajandevkota98
 ---
-
 👋 **Greetings!** My name is Rajan Devkota, and I am currently an Associate AI Engineer at [Frost Digital Venture](https://www.frostdigi.ai/). I hold a bachelor's degree in Computer Engineering from [Institute of Engineering, Tribhuvan University](https://ioe.tu.edu.np/).
 
 This is my personal blog website where I aim to provide **practical tutorials and guides** on AI and machine learning. I believe in starting with implementation and practice, and then diving into explanations. By retracing the thought process of the original authors of the algorithms we use every day, we can gain a deeper understanding of their design and the importance of each component.
